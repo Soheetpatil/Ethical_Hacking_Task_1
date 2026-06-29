@@ -1,0 +1,20 @@
+Passive Reconnaissance:
+Collecting publicly available information without interacting aggressively with the target.
+
+WHOIS:
+Provides domain registration information.
+
+DNS Enumeration:
+Identifies A, MX, NS, and TXT records.
+
+Technology Identification:
+Detects web server, framework, CMS, CDN, and programming language.
+
+HTTP Security Headers:
+Improve website security against attacks such as XSS and Clickjacking.
+
+robots.txt:
+Specifies which pages search engines are allowed to crawl.
+
+sitemap.xml:
+Lists important website pages to help search engines index content.
